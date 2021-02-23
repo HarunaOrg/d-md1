@@ -1,5 +1,5 @@
 {
-  "name": "dms",
+  "name": "dms7",
   "version": "1.0.0",
   "description": "DMS is a full stack document management system, complete with roles and privileges.",
   "main": "index.js",
@@ -126,7 +126,7 @@
     "sweetalert": "^1.1.3",
     "toastr": "^2.1.2",
     "url-loader": "^0.5.8",
-    "webpack": "^1.12.13",
-    "winston": "^2.3.1"
+    "webpack": "*",
+    "winston": "*"
   }
 }

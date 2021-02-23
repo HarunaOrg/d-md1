@@ -1,5 +1,5 @@
 {
-  "name": "headlines",
+  "name": "headlines20",
   "version": "1.0.0",
   "description": "A simple a front-end application that takes advantage of the functionalities NewsAPI provides.",
   "main": "server.js",
@@ -66,26 +66,6 @@
     "webpack": "^1.12.13"
   },
   "dependencies": {
-    "chai": "^3.5.0",
-    "dotenv": "^4.0.0",
-    "dotenv-webpack": "^1.4.5",
-    "enzyme": "^2.8.2",
-    "expect": "^1.20.2",
-    "expect-jsx": "^2.6.0",
-    "express": "^4.13.4",
-    "flux": "^2.1.1",
-    "history": "^4.6.1",
-    "jquery": "^2.2.1",
-    "mocha": "^3.3.0",
-    "prop-types": "^15.5.8",
-    "react": "^0.14.8",
-    "react-addons-test-utils": "^0.14.8",
-    "react-dom": "^0.14.8",
-    "react-google-login": "^2.8.9",
-    "react-router": "^2.8.1",
-    "react-select": "^1.0.0-rc.3",
-    "react-share": "^1.13.2",
-    "sinon": "^2.2.0",
-    "superagent": "^3.5.2"
+    "jquery": "^1.2.1"
   }
 }

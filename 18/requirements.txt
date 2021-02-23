@@ -68,7 +68,7 @@ PyYAML==5.3.1
 pycrypto==2.6.1
 pynacl==1.2.1
 pypandoc==1.4
-pyspark[sql]==2.4.0
+pyspark[sql]==3.0.2
 pytest-aiohttp==0.3.0
 pytest-asyncio==0.10.0
 pytest-mock==1.12.1

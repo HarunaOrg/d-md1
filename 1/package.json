@@ -81,7 +81,7 @@
     "font-awesome": "4.7.0",
     "history": "^2.1.0",
     "jquery": "^2.2.4",
-    "jsdom": "11.0.0",
+    "jsdom": "16.4.0",
     "jsdom-global": "3.0.2"
   }
 }

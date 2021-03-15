@@ -45,7 +45,7 @@
     "babel-loader": "^6.2.2"
   },
   "dependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.3.4",
     "dotenv": "*"
   }
 }

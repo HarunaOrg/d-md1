@@ -9,5 +9,5 @@ python-jose==3.1.0
 python_Levenshtein==0.12.0
 pytimeparse==1.1.7
 pytypes==1.0b1
-pytz==2020.4
+pytz==2023.2
 pyuwsgi==2.0.19.1
